@@ -1,0 +1,17 @@
+/*
+Theme Name: Hire Me
+Theme URI: https://github/elpuas/hire-me
+Author: ElPuas Digital Crafts
+Author URI: https://elpuas.com/
+Description: Barebones Themes.
+Tags: block-patterns, block-styles, custom-colors, custom-logo, custom-menu, editor-style, full-site-editing
+Requires at least: 6.3
+Tested up to: 6.3
+Requires PHP: 7.0
+Version: 1.0.6
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: hireme
+*/
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
