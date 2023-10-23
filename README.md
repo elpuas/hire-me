@@ -2,6 +2,25 @@
 
 Este tema está diseñado como una herramienta práctica para el taller realizado en la Comunidad WordPress en Managua, dirigido por Alfredo Navas. El objetivo del taller es guiar a los participantes a través del proceso de transformar un diseño de Figma en un tema de WordPress utilizando theme.json y el Editor de Bloques.
 
+```
+        hire-me/
+        │
+        ├── inc/
+        │
+        ├── parts/
+        │   └── header.html
+        │   └── footer.php
+        │
+        ├── patterns/
+        │
+        ├── templates/
+        │   └── index.html
+        │
+        ├── functions.php
+        ├── style.css
+        └── theme.json
+```
+
 ## 📅 Fecha
 
 Sabado 28 de Octubre
